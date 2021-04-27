@@ -7,11 +7,6 @@ red="$bold$(tput setaf 1)"
 green=$(tput setaf 2)    
 
  # ────  cores ──────  
-    
-
-
- # ────  ascii ──────      
-
 
 ascii(){
     ./bars
